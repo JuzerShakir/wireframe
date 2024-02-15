@@ -1,0 +1,23 @@
+{
+	"name": "wireframe",
+	"version": "1.0.0",
+	"description": "Hotwire w/o Ruby On Rails",
+	"main": "index.js",
+	"scripts": {
+		"launch": "npx http-server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JuzerShakir/wireframe.git"
+	},
+	"keywords": [
+		"hotwire",
+		"turbo"
+	],
+	"author": "Juzer Shakir",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/JuzerShakir/wireframe/issues"
+	},
+	"homepage": "https://github.com/JuzerShakir/wireframe#readme"
+}
